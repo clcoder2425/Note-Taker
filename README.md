@@ -63,7 +63,7 @@ The link for the webpage is:https://note-taker2425-2ffc406a8d72.herokuapp.com/
 - UUID
 
 ## Author
- Carmen Jimenez : 
+ Carmen Jimenez : https://github.com/clcoder2425/Note-Taker.git
  
  ## License
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
