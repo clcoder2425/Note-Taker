@@ -1,4 +1,5 @@
 const express = require('express');
+require('dotenv').config();
 const htmlRoutes = require('./routes/html-routes');
 const apiRoutes = require('./routes/api-routes');
 const PORT = process.env.PORT || 3001;
@@ -12,5 +13,5 @@ app.use(htmlRoutes);
 app.use(apiRoutes);
 
 app.listen(PORT, () => {
-  console.log(`API server now on http://localhost: ${PORT}!`);
+  console.log(`API server now on http://localhost:${PORT}`);
 });

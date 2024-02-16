@@ -43,18 +43,24 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 
 ## Usage
-The link for the webpage is:/
+The link for the webpage is:https://clcoder2425.github.io/Note-Taker/
 
 ## Skills Improved
 
 - HTML 
 - JavaScript
 - CSS
+- Express.js
+- API routes
+- Storing data with JSON
 
 ## Technologies
 - HTML 
 - JavaScript
 - CSS
+- Dotenv
+- Nodemon
+- UUID
 
 ## Author
  Carmen Jimenez : 
@@ -63,3 +69,5 @@ The link for the webpage is:/
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Credits
+- How to use dotenv: https://www.dotenv.org/blog/2023/03/13/how-to-use-dotenv.html
+- Express documentation: https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/
