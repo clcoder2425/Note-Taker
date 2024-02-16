@@ -1,6 +1,1 @@
-[
-    {
-        "title":"Test Title",
-        "text":"Test text"
-    }
-]
+[{"title":"test Title","text":"test text"},{"title":"Shopping","text":"Grocery","id":"bda50fc0-4c0f-4fd8-8ab3-969dbb7c6114"},{"title":"Coding","text":"Note taker","id":"814db5d9-3f75-41ce-b398-a5bb3ef5bed0"}]
