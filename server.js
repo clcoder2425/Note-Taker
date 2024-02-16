@@ -1,5 +1,6 @@
-const express = require('express');
+
 require('dotenv').config();
+const express = require('express');
 const htmlRoutes = require('./routes/html-routes');
 const apiRoutes = require('./routes/api-routes');
 const PORT = process.env.PORT || 3001;
